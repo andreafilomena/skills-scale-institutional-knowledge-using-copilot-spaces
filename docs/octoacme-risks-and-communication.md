@@ -39,4 +39,7 @@ Incident Communication
 
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
-- For security incidents, follow the security incident runbook and notify Security on-call
+- For security incidents, the **Security Lead** owns triage, investigation, and remediation. The **Project Manager** coordinates cross-team communication. The **Customer Success** role prepares customer-facing notifications. See the [Cross-Functional Engagement Checklist — Security Incident Escalation](./octoacme-cross-functional-engagement-checklist.md#security-incident-escalation) for severity-based notification timelines and owners.
+
+## Role Ownership Summary
+For a full view of who is responsible, accountable, consulted, or informed across project activities — including risk escalation, incident response, and stakeholder communication — see the [Cross-Functional Engagement Checklist](./octoacme-cross-functional-engagement-checklist.md).

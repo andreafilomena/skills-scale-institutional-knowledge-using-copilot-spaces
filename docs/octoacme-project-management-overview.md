@@ -19,6 +19,13 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- UX Designer: conducts user research, creates designs, and validates usability.
+- Data Analyst: defines success metrics, builds dashboards, and surfaces insights.
+- Customer Success: represents user feedback and coordinates customer-facing communications.
+- Security Lead: owns security requirements, scanning, and incident response.
+- Technical Writer: creates and maintains user-facing and internal documentation.
+
+> For detailed responsibilities and cross-role interactions, see [Roles & Personas](./octoacme-roles-and-personas.md). For lifecycle ownership at a glance, see the [Cross-Functional Engagement Checklist](./octoacme-cross-functional-engagement-checklist.md).
 
 ## Key Artifacts
 - Project Charter / One-pager
