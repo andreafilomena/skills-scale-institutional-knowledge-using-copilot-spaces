@@ -24,5 +24,6 @@ This README is the entry point to OctoAcme's project management process document
 | [Release & Deployment Guide](./octoacme-release-and-deployment.md) | Pre-release checklist, deployment steps, rollback procedures, and post-release verification |
 | [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) | Retrospective formats, action item tracking, and continuous improvement practices |
 | [Roles & Personas](./octoacme-roles-and-personas.md) | Detailed responsibilities and expectations for each role involved in OctoAcme projects |
+| [Cross-Functional Engagement Checklist](./octoacme-cross-functional-engagement-checklist.md) | RACI matrix, lifecycle handoff checklists, and security incident escalation guidance |
 
 > This index will grow as the team adds more process documents. To contribute a new doc, follow the existing naming convention (`octoacme-<topic>.md`) and add a row to the table above.

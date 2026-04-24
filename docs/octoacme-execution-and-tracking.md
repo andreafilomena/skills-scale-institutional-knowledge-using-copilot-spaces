@@ -20,8 +20,10 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
-- Security scanning in CI
+- Security scanning in CI (findings reviewed by **Security Lead**)
 - Manual QA for feature acceptance when needed
+- UX review by **UX Designer** before release for user-facing features
+- Analytics instrumentation validated by **Data Analyst** in staging
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -38,3 +40,4 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
 - [ ] Risk register updated weekly
+- [ ] Cross-functional roles engaged as appropriate (see [Cross-Functional Engagement Checklist](./octoacme-cross-functional-engagement-checklist.md))
